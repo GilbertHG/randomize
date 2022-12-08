@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Randomize</string>
+    <string name="add_button">Add</string>
+    <string name="current_items">Current Items</string>
+    <string name="randomize">Randomize</string>
+    <string name="result">Result :</string>
+    <string name="label_input_item">Input Item</string>
+    <string name="label_clear_current_list">Clear Current List</string>
+    <string name="save_list">Save List</string>
+    <string name="load_list">Load List</string>
+    <string name="input_file_name">Input File Name</string>
+    <string name="val_randomize">Value Randomize</string>
+</resources>
